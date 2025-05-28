@@ -30,7 +30,7 @@ VERSION:=
 # DOCKER is the docker image repo we need to push to.
 DOCKER:=
 NAME:=coredns
-GITHUB:=https://github.com/coredns/coredns/releases/download
+GITHUB:=https://github.com/EdgeCDN-X/coredns/releases/download
 # mips is not in LINUX_ARCH because it's not supported by docker manifest. Keep this list in sync with the one in Makefile.release
 LINUX_ARCH:=amd64 arm arm64 mips64le ppc64le s390x riscv64
 DOCKER_IMAGE_NAME:=$(DOCKER)/$(NAME)
