@@ -1,8 +1,6 @@
 module github.com/coredns/coredns
 
-go 1.23.0
-
-toolchain go1.24.1
+go 1.24.2
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -72,7 +70,11 @@ require (
 	github.com/DataDog/go-tuf v1.1.0-0.5.2 // indirect
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.26.0 // indirect
 	github.com/DataDog/sketches-go v1.4.7 // indirect
+	github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20 // indirect
+	github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e // indirect
+	github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
+	github.com/ancientlore/go-avltree v1.0.3 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.36.3 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.67 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.30 // indirect

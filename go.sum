@@ -63,9 +63,17 @@ github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.26.0 h1:GlvoS
 github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.26.0/go.mod h1:mYQmU7mbHH6DrCaS8N6GZcxwPoeNfyuopUoLQltwSzs=
 github.com/DataDog/sketches-go v1.4.7 h1:eHs5/0i2Sdf20Zkj0udVFWuCrXGRFig2Dcfm5rtcTxc=
 github.com/DataDog/sketches-go v1.4.7/go.mod h1:eAmQ/EBmtSO+nQp7IZMZVRPT4BQTmIc5RZQ+deGlTPM=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20 h1:VGNluzv4hrbtnT4813bEflfQLEft6yLzsmsIar3nAXs=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20/go.mod h1:Mx27LwrtJJhBbtF0CxzpgeMv6sv3pHtMg6o/PSU7w5E=
+github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e h1:rnrVYbd74o2YpYfKVr5qs7wR6R4WWyIQIXVeS0QrXO8=
+github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e/go.mod h1:zc+yxsDFfCjUSAKEmV58MzCzDLRhv/VGJVrdsaylLjU=
+github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5 h1:Iuia6978qWPiHWP/pwWBY/QeDpnBTRp7p8GTtfmHbZs=
+github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5/go.mod h1:LddESkfFEsSfTNg13HGfj7i0YP6frq0LFZkV9gGvYA0=
 github.com/Microsoft/go-winio v0.5.0/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpzfwIujj1a84=
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
+github.com/ancientlore/go-avltree v1.0.3 h1:V5MzMHDgM5wn9Zttb+/gcRREetOSz/3WdMW6iOYNg1I=
+github.com/ancientlore/go-avltree v1.0.3/go.mod h1:++CjrwcE5evH/2Vi8WqJlqNaNiNvj+jBG/Fa6MnZv/E=
 github.com/apparentlymart/go-cidr v1.1.0 h1:2mAhrMoF+nhXqxTzSZMUzDHkLjmIHC+Zzn4tdgBZjnU=
 github.com/apparentlymart/go-cidr v1.1.0/go.mod h1:EBcsNrHc3zQeuaeCeCtQruQm+n9/YjEn/vI25Lg7Gwc=
 github.com/armon/go-radix v0.0.0-20180808171621-7fddfc383310/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgIH9cCH8=
