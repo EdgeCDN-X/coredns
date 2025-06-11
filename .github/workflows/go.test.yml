@@ -116,4 +116,6 @@ jobs:
           username: ${{ secrets.DOCKER_LOGIN }}
           password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Publish Docker Images
-        run: make VERSION=latest DOCKER=fr6nco -f Makefile.docker docker-push
+        run: |
+          VERSION=$(make -f Makefile.release version)
+          make VERSION=$VERSION-dev DOCKER=fr6nco -f Makefile.docker docker-push
