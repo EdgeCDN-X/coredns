@@ -113,7 +113,7 @@ jobs:
       - name: Docker login
         uses: docker/login-action@74a5d142397b4f367a81961eba4e8cd7edddf772  # v3.4.0
         with:
-          username: ${{ secrets.DOCKERHUB_USERNAME }}
-          password: ${{ secrets.DOCKERHUB_PASSWORD }}
+          username: ${{ secrets.DOCKER_LOGIN }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
       - name: Publish Docker Images
         run: make VERSION=latest DOCKER=fr6nco -f Makefile.docker docker-push
