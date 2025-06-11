@@ -70,7 +70,7 @@ require (
 	github.com/DataDog/go-tuf v1.1.0-0.5.2 // indirect
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.26.0 // indirect
 	github.com/DataDog/sketches-go v1.4.7 // indirect
-	github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20 // indirect
+	github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250611113838-757623993c35 // indirect
 	github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e // indirect
 	github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect

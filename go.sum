@@ -65,6 +65,8 @@ github.com/DataDog/sketches-go v1.4.7 h1:eHs5/0i2Sdf20Zkj0udVFWuCrXGRFig2Dcfm5rt
 github.com/DataDog/sketches-go v1.4.7/go.mod h1:eAmQ/EBmtSO+nQp7IZMZVRPT4BQTmIc5RZQ+deGlTPM=
 github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20 h1:VGNluzv4hrbtnT4813bEflfQLEft6yLzsmsIar3nAXs=
 github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250521131627-1dddf45fcc20/go.mod h1:Mx27LwrtJJhBbtF0CxzpgeMv6sv3pHtMg6o/PSU7w5E=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250611113838-757623993c35 h1:umtvX2E/RSPa8kAQDz0pLLWjo4XoXFhiKnrjcTr7oeM=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.0-20250611113838-757623993c35/go.mod h1:Mx27LwrtJJhBbtF0CxzpgeMv6sv3pHtMg6o/PSU7w5E=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e h1:rnrVYbd74o2YpYfKVr5qs7wR6R4WWyIQIXVeS0QrXO8=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.0-20250520103754-b1bc43fd381e/go.mod h1:zc+yxsDFfCjUSAKEmV58MzCzDLRhv/VGJVrdsaylLjU=
 github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5 h1:Iuia6978qWPiHWP/pwWBY/QeDpnBTRp7p8GTtfmHbZs=
