@@ -65,12 +65,12 @@ github.com/DataDog/sketches-go v1.4.7 h1:eHs5/0i2Sdf20Zkj0udVFWuCrXGRFig2Dcfm5rt
 github.com/DataDog/sketches-go v1.4.7/go.mod h1:eAmQ/EBmtSO+nQp7IZMZVRPT4BQTmIc5RZQ+deGlTPM=
 github.com/EdgeCDN-X/edgecdnx-controller v0.0.1 h1:Y2cMiiCTE+9yu5ssI75dX/SnrEIVLz3bxdZSu3QlshI=
 github.com/EdgeCDN-X/edgecdnx-controller v0.0.1/go.mod h1:ExJOsXTRJSPPSyEZ7980/zv9Gc0+fjbf4lJm8MJgTDU=
-github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.1 h1:3/ZwdJCXf5D7bxqi9ozElrqRB5+JfmlDrOoNofDOtzo=
-github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.1/go.mod h1:crC7eYYqEZ3hWnEj+ZCZawC4VaOkjpGarATcffbOByw=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.2 h1:ELFnxVknP3dTS/VGBt3UVix8GhdbfHm0sdIM+YIafww=
+github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.2/go.mod h1:crC7eYYqEZ3hWnEj+ZCZawC4VaOkjpGarATcffbOByw=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.1 h1:YK5hzw4Vsf+lEIaekWjt4XUdNDrVht2UoMam8qS1+lk=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.1/go.mod h1:ZvXbq80QOgzrL0cRrYPSE3/EFvw9kcnlge+FngWyOTI=
-github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5 h1:Iuia6978qWPiHWP/pwWBY/QeDpnBTRp7p8GTtfmHbZs=
-github.com/EdgeCDN-X/edgecdnx-services v0.0.0-20250520213516-97a83b6476b5/go.mod h1:LddESkfFEsSfTNg13HGfj7i0YP6frq0LFZkV9gGvYA0=
+github.com/EdgeCDN-X/edgecdnx-services v0.0.1 h1:b/BqylSGu2k6D4pOaSLov089O2+xZQClIgcKH3oWSMk=
+github.com/EdgeCDN-X/edgecdnx-services v0.0.1/go.mod h1:TALVMD+hzO5oiw9YaNUu4KA42Zf89jW+UfPOxVJ5RC4=
 github.com/Microsoft/go-winio v0.5.0/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpzfwIujj1a84=
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
