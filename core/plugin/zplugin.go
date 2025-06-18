@@ -58,6 +58,7 @@ import (
 	_ "github.com/coredns/coredns/plugin/tsig"
 	_ "github.com/coredns/coredns/plugin/view"
 	_ "github.com/coredns/coredns/plugin/whoami"
+	_ "github.com/coredns/records"
 
 	_ "github.com/EdgeCDN-X/edgecdnx-geolookup"
 	_ "github.com/EdgeCDN-X/edgecdnx-prefixlist"
