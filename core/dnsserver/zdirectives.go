@@ -64,8 +64,8 @@ var Directives = []string{
 	"on",
 	"sign",
 	"view",
-	"records",
 	"edgecdnxservices",
 	"edgecdnxprefixlist",
 	"edgecdnxgeolookup",
+	"records",
 }
