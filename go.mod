@@ -8,7 +8,7 @@ require (
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.13
 	github.com/EdgeCDN-X/edgecdnx-geolookup v0.0.3
 	github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.1
-	github.com/EdgeCDN-X/edgecdnx-services v0.0.4
+	github.com/EdgeCDN-X/edgecdnx-services v0.1.0
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/aws-sdk-go v1.55.7
 	github.com/aws/aws-sdk-go-v2/config v1.29.14
@@ -74,7 +74,7 @@ require (
 	github.com/DataDog/go-tuf v1.1.0-0.5.2 // indirect
 	github.com/DataDog/opentelemetry-mapping-go/pkg/otlp/attributes v0.26.0 // indirect
 	github.com/DataDog/sketches-go v1.4.7 // indirect
-	github.com/EdgeCDN-X/edgecdnx-controller v0.0.1 // indirect
+	github.com/EdgeCDN-X/edgecdnx-controller v0.0.2 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ancientlore/go-avltree v1.0.3 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.36.3 // indirect
