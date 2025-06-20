@@ -86,8 +86,8 @@ github.com/EdgeCDN-X/edgecdnx-geolookup v0.1.0 h1:vKbyEBlk6zCMZEm7IntoOS+B08d9Oz
 github.com/EdgeCDN-X/edgecdnx-geolookup v0.1.0/go.mod h1:YNED4gnT6xVCijsT7CN2ceRKrMBLOdxL7+XPCvpzbMY=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.2 h1:Zhz3RBI5e/Dj7BlY8+VJAqWay5NxvKna2JGFTzchdbc=
 github.com/EdgeCDN-X/edgecdnx-prefixlist v0.0.2/go.mod h1:S6+QT88iH07b1+jN1WCj3nzrXFu+rad6l2epIdElCzU=
-github.com/EdgeCDN-X/edgecdnx-services v0.1.1 h1:yKGnM7dToyXydMceugsDKx3bFtpJF3Tx466IpO/ncHY=
-github.com/EdgeCDN-X/edgecdnx-services v0.1.1/go.mod h1:8tqPbQGXx/IEqGod2j4ts9m95ZugamuKhTouQhFfab0=
+github.com/EdgeCDN-X/edgecdnx-services v0.1.2 h1:eW80J/N8+WdP4L0NTuVm5FCq4WfNO5AEYQ/X+l4bOts=
+github.com/EdgeCDN-X/edgecdnx-services v0.1.2/go.mod h1:8tqPbQGXx/IEqGod2j4ts9m95ZugamuKhTouQhFfab0=
 github.com/Microsoft/go-winio v0.5.0/go.mod h1:JPGBdM1cNvN/6ISo+n8V5iA4v8pBzdOpzfwIujj1a84=
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
 github.com/Microsoft/go-winio v0.6.2/go.mod h1:yd8OoFMLzJbo9gZq8j5qaps8bJ9aShtEA8Ipt1oGCvU=
