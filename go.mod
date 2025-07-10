@@ -6,7 +6,7 @@ require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/go-autorest/autorest v0.11.30
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.13
-	github.com/EdgeCDN-X/edgecdnx-geolookup v0.3.0
+	github.com/EdgeCDN-X/edgecdnx-geolookup v0.4.0
 	github.com/EdgeCDN-X/edgecdnx-prefixlist v0.1.0
 	github.com/EdgeCDN-X/edgecdnx-services v0.2.0
 	github.com/apparentlymart/go-cidr v1.1.0
